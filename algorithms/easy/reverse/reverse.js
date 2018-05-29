@@ -1,4 +1,4 @@
-// description:  https://leetcode-cn.com/problems/reverse-integer/description/
+// description: https://leetcode-cn.com/problems/reverse-integer/description/
 // 反转整数
 
 /**
