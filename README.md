@@ -13,3 +13,10 @@ LeetCode Problems' Solutions in JavaScript
 7.  [从排序数组中删除重复项](./algorithms/easy/removeDuplicates/removeDuplicates.js)
 8.  [反转整数](./algorithms/easy/reverse/reverse.js)
 9.  [第一个错误的版本](./algorithms/easy/solution/solution.js)
+
+## medium
+
+1.  [数组中的第 K 个最大元素](./algorithms/medium/findKthLargest/findKthLargest.js)
+1.  [分类颜色](./algorithms/medium/sortColors/sortColors.js)
+
+## hard
