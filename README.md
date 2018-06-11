@@ -17,6 +17,7 @@ LeetCode Problems' Solutions in JavaScript
 ## medium
 
 1.  [数组中的第 K 个最大元素](./algorithms/medium/findKthLargest/findKthLargest.js)
-1.  [分类颜色](./algorithms/medium/sortColors/sortColors.js)
+2.  [分类颜色](./algorithms/medium/sortColors/sortColors.js)
+3.  [寻找峰值](./algorithms/medium/findPeakElement/findPeakElement.js)
 
 ## hard
