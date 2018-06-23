@@ -13,6 +13,7 @@ LeetCode Problems' Solutions in JavaScript
 7.  [从排序数组中删除重复项](./algorithms/easy/removeDuplicates/removeDuplicates.js)
 8.  [反转整数](./algorithms/easy/reverse/reverse.js)
 9.  [第一个错误的版本](./algorithms/easy/solution/solution.js)
+10. [两个数组的交集 II](./algorithms/easy/intersect/intersect.js)
 
 ## medium
 
