@@ -15,6 +15,7 @@ LeetCode Problems' Solutions in JavaScript
 9.  [第一个错误的版本](./algorithms/easy/solution/solution.js)
 10. [两个数组的交集 II](./algorithms/easy/intersect/intersect.js)
 11. [汉明距离](./algorithms/easy/hammingDistance/hammingDistance.js)
+12. [汉明距离](./algorithms/easy/isValid/isValid.js)
 
 ## medium
 
