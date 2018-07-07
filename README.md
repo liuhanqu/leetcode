@@ -20,6 +20,8 @@ LeetCode Problems' Solutions in JavaScript
 14. [帕斯卡三角形](./algorithms/easy/generate/generate.js)
 15. [颠倒二进制位](./algorithms/easy/reverseBits/reverseBits.js)
 16. [Shuffle an Array](./algorithms/easy/shuffle/shuffle.js)
+17. [最小栈](./algorithms/easy/MinStack/MinStack.js)
+18. [罗马数字转整数](./algorithms/easy/romanToInt/romanToInt.js)
 
 ## medium
 
