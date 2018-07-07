@@ -16,6 +16,10 @@ LeetCode Problems' Solutions in JavaScript
 10. [两个数组的交集 II](./algorithms/easy/intersect/intersect.js)
 11. [汉明距离](./algorithms/easy/hammingDistance/hammingDistance.js)
 12. [汉明距离](./algorithms/easy/isValid/isValid.js)
+13. [缺失数字](./algorithms/easy/missingNumber/missingNumber.js)
+14. [帕斯卡三角形](./algorithms/easy/generate/generate.js)
+15. [颠倒二进制位](./algorithms/easy/reverseBits/reverseBits.js)
+16. [Shuffle an Array](./algorithms/easy/shuffle/shuffle.js)
 
 ## medium
 
