@@ -1,3 +1,25 @@
+// description: https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/23/dynamic-programming/55/
+// 买卖股票的最佳时机 I
+
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+var maxProfit = function(prices) {
+  let profit = 0;
+  let buy = prices[0];
+  const len = price.length;
+  for (let i = 1; i < len; i++) {
+    const price = prices[i];
+    if (price > buy) {
+      profit = Math.max(profit, price - buy);
+    } else {
+      buy = price;
+    }
+  }
+  return profit;
+};
+
 // description: https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/22/
 // 买卖股票的最佳时机 II
 

@@ -8,7 +8,7 @@ LeetCode Problems' Solutions in JavaScript
 2.  [Fizz Buzz](./algorithms/easy/fizzBuzz/fizzBuzz.js)
 3.  [位 1 的个数](./algorithms/easy/hammingWeight/hammingWeight.js)
 4.  [3 的幂](./algorithms/easy/isPowerOfThree/isPowerOfThree.js)
-5.  [买卖股票的最佳时机 II](./algorithms/easy/maxProfit/maxProfit.js)
+5.  [买卖股票的最佳时机](./algorithms/easy/maxProfit/maxProfit.js)
 6.  [合并两个有序数组](./algorithms/easy/merge/merge.js)
 7.  [从排序数组中删除重复项](./algorithms/easy/removeDuplicates/removeDuplicates.js)
 8.  [反转整数](./algorithms/easy/reverse/reverse.js)
@@ -22,6 +22,7 @@ LeetCode Problems' Solutions in JavaScript
 16. [Shuffle an Array](./algorithms/easy/shuffle/shuffle.js)
 17. [最小栈](./algorithms/easy/MinStack/MinStack.js)
 18. [罗马数字转整数](./algorithms/easy/romanToInt/romanToInt.js)
+19. [最大子序和](./algorithms/easy/maxSubArray/maxSubArray.js)
 
 ## medium
 
