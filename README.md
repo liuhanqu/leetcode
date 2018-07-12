@@ -23,6 +23,7 @@ LeetCode Problems' Solutions in JavaScript
 17. [最小栈](./algorithms/easy/MinStack/MinStack.js)
 18. [罗马数字转整数](./algorithms/easy/romanToInt/romanToInt.js)
 19. [最大子序和](./algorithms/easy/maxSubArray/maxSubArray.js)
+20. [打家劫舍](./algorithms/easy/rob/rob.js)
 
 ## medium
 
