@@ -24,6 +24,9 @@ LeetCode Problems' Solutions in JavaScript
 18. [罗马数字转整数](./algorithms/easy/romanToInt/romanToInt.js)
 19. [最大子序和](./algorithms/easy/maxSubArray/maxSubArray.js)
 20. [打家劫舍](./algorithms/easy/rob/rob.js)
+21. [爬楼梯](./algorithms/easy/climbStairs/climbStairs.js)
+22. [二叉树的最大深度](./algorithms/easy/maxDepth/maxDepth.js)
+23. [删除链表中的节点](./algorithms/easy/deleteNode/deleteNode.js)
 
 ## medium
 

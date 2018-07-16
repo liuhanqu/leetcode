@@ -17,3 +17,5 @@ var rob = function(nums) {
 
   return tmps[len - 1];
 };
+
+// 参考链接: http://www.liuyiqi.cn/2017/03/10/house-robber/
