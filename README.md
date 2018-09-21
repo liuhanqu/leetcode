@@ -27,11 +27,15 @@ LeetCode Problems' Solutions in JavaScript
 21. [爬楼梯](./algorithms/easy/climbStairs/climbStairs.js)
 22. [二叉树的最大深度](./algorithms/easy/maxDepth/maxDepth.js)
 23. [删除链表中的节点](./algorithms/easy/deleteNode/deleteNode.js)
+24. [删除链表的倒数第 N 个节点](./algorithms/easy/removeNthFromEnd/removeNthFromEnd.js)
+25. [反转链表](./algorithms/easy/reverseList/reverseList.js)
 
 ## medium
 
-1.  [数组中的第 K 个最大元素](./algorithms/medium/findKthLargest/findKthLargest.js)
-2.  [分类颜色](./algorithms/medium/sortColors/sortColors.js)
-3.  [寻找峰值](./algorithms/medium/findPeakElement/findPeakElement.js)
+1. [数组中的第 K 个最大元素](./algorithms/medium/findKthLargest/findKthLargest.js)
+2. [分类颜色](./algorithms/medium/sortColors/sortColors.js)
+3. [寻找峰值](./algorithms/medium/findPeakElement/findPeakElement.js)
+4. [字谜分组](./algorithms/medium/groupAnagrams/groupAnagrams.js)
+5. [无重复字符的最长子串](./algorithms/medium/lengthOfLongestSubstring/lengthOfLongestSubstring.js)
 
 ## hard
