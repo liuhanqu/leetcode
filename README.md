@@ -37,5 +37,7 @@ LeetCode Problems' Solutions in JavaScript
 3. [寻找峰值](./algorithms/medium/findPeakElement/findPeakElement.js)
 4. [字谜分组](./algorithms/medium/groupAnagrams/groupAnagrams.js)
 5. [无重复字符的最长子串](./algorithms/medium/lengthOfLongestSubstring/lengthOfLongestSubstring.js)
+6. [递增的三元子序列](./algorithms/medium/increasingTriplet/increasingTriplet.js)
+7. [矩阵置零](./algorithms/medium/setZeroes/setZeroes.js)
 
 ## hard
