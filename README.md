@@ -39,5 +39,8 @@ LeetCode Problems' Solutions in JavaScript
 5. [无重复字符的最长子串](./algorithms/medium/lengthOfLongestSubstring/lengthOfLongestSubstring.js)
 6. [递增的三元子序列](./algorithms/medium/increasingTriplet/increasingTriplet.js)
 7. [矩阵置零](./algorithms/medium/setZeroes/setZeroes.js)
+8. [两数相加](./algorithms/medium/addTwoNumbers/addTwoNumbers.js)
+9. [奇偶链表](./algorithms/medium/oddEvenList/oddEvenList.js)
+10. [相交链表](./algorithms/medium/getIntersectionNode/getIntersectionNode.js)
 
 ## hard
