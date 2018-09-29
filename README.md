@@ -42,5 +42,6 @@ LeetCode Problems' Solutions in JavaScript
 8. [两数相加](./algorithms/medium/addTwoNumbers/addTwoNumbers.js)
 9. [奇偶链表](./algorithms/medium/oddEvenList/oddEvenList.js)
 10. [相交链表](./algorithms/medium/getIntersectionNode/getIntersectionNode.js)
+11. [在排序数组中查找元素的第一个和最后一个位置](./algorithms/medium/searchRange/searchRange.js)
 
 ## hard
