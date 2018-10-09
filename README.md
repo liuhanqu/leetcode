@@ -45,5 +45,8 @@ LeetCode Problems' Solutions in JavaScript
 11. [在排序数组中查找元素的第一个和最后一个位置](./algorithms/medium/searchRange/searchRange.js)
 12. [搜索旋转排序数组](./algorithms/medium/search/search.js)
 13. [合并区间](./algorithms/medium/merge/merge.js)
+14. [前 K 个高频元素](./algorithms/medium/topKFrequent/topKFrequent.js)
+15. [搜索二维矩阵 II](./algorithms/medium/searchMatrix/searchMatrix.js)
+16. [快乐数](./algorithms/medium/isHappy/isHappy.js)
 
 ## hard
