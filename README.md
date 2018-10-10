@@ -48,5 +48,10 @@ LeetCode Problems' Solutions in JavaScript
 14. [前 K 个高频元素](./algorithms/medium/topKFrequent/topKFrequent.js)
 15. [搜索二维矩阵 II](./algorithms/medium/searchMatrix/searchMatrix.js)
 16. [快乐数](./algorithms/medium/isHappy/isHappy.js)
+17. [阶乘后的零](./algorithms/medium/trailingZeroes/trailingZeroes.js)
+18. [Excel 表列序号](./algorithms/medium/titleToNumber/titleToNumber.js)
+19. [Pow(x, n)](./algorithms/medium/myPow/myPow.js)
+20. [x 的平方根](./algorithms/medium/mySqrt/mySqrt.js)
+21. [两数相除](./algorithms/medium/divide/divide.js)
 
 ## hard
