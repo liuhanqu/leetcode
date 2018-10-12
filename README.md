@@ -53,5 +53,8 @@ LeetCode Problems' Solutions in JavaScript
 19. [Pow(x, n)](./algorithms/medium/myPow/myPow.js)
 20. [x 的平方根](./algorithms/medium/mySqrt/mySqrt.js)
 21. [两数相除](./algorithms/medium/divide/divide.js)
+22. [分数到小数](./algorithms/medium/fractionToDecimal/fractionToDecimal.js)
+23. [求众数](./algorithms/medium/majorityElement/majorityElement.js)
+24. [电话号码的字母组合](./algorithms/medium/letterCombinations/letterCombinations.js)
 
 ## hard
