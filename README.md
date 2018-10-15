@@ -56,5 +56,9 @@ LeetCode Problems' Solutions in JavaScript
 22. [分数到小数](./algorithms/medium/fractionToDecimal/fractionToDecimal.js)
 23. [求众数](./algorithms/medium/majorityElement/majorityElement.js)
 24. [电话号码的字母组合](./algorithms/medium/letterCombinations/letterCombinations.js)
+25. [全排列](./algorithms/medium/permute/permute.js)
+26. [子集](./algorithms/medium/subsets/subsets.js)
+27. [跳跃游戏](./algorithms/medium/canJump/canJump.js)
+28. [不同路径](./algorithms/medium/uniquePaths/uniquePaths.js)
 
 ## hard
