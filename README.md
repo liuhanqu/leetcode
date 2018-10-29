@@ -29,6 +29,9 @@ LeetCode Problems' Solutions in JavaScript
 23. [删除链表中的节点](./algorithms/easy/deleteNode/deleteNode.js)
 24. [删除链表的倒数第 N 个节点](./algorithms/easy/removeNthFromEnd/removeNthFromEnd.js)
 25. [反转链表](./algorithms/easy/reverseList/reverseList.js)
+26. [二叉树的层次遍历](./algorithms/easy/levelOrder/levelOrder.js)
+27. [对称二叉树](./algorithms/easy/isSymmetric/isSymmetric.js)
+28. [将有序数组转换为二叉搜索树](./algorithms/easy/sortedArrayToBST/sortedArrayToBST.js)
 
 ## medium
 
@@ -60,5 +63,6 @@ LeetCode Problems' Solutions in JavaScript
 26. [子集](./algorithms/medium/subsets/subsets.js)
 27. [跳跃游戏](./algorithms/medium/canJump/canJump.js)
 28. [不同路径](./algorithms/medium/uniquePaths/uniquePaths.js)
+29. [中序遍历二叉树](./algorithms/medium/inorderTraversal/inorderTraversal.js)
 
 ## hard
