@@ -64,5 +64,6 @@ LeetCode Problems' Solutions in JavaScript
 27. [跳跃游戏](./algorithms/medium/canJump/canJump.js)
 28. [不同路径](./algorithms/medium/uniquePaths/uniquePaths.js)
 29. [中序遍历二叉树](./algorithms/medium/inorderTraversal/inorderTraversal.js)
+30. [常数时间插入、删除和获取随机元素](./algorithms/medium/RandomizedSet/RandomizedSet.js)
 
 ## hard
