@@ -67,3 +67,7 @@ LeetCode Problems' Solutions in JavaScript
 30. [常数时间插入、删除和获取随机元素](./algorithms/medium/RandomizedSet/RandomizedSet.js)
 
 ## hard
+
+1. [两个排序数组的中位数](./algorithms/hard/findMedianSortedArrays/findMedianSortedArrays.js)
+2. [最长连续序列](./algorithms/hard/longestConsecutive/longestConsecutive.js)
+3. [最大数](./algorithms/hard/largestNumber/largestNumber.js)
